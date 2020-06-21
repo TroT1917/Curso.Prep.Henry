@@ -95,7 +95,7 @@ function mayorQueCincuenta(num) {
 function obtenerResto(x, y) {
   // Obten el resto de la división de "x" entre "y"
   // Tu código:
-  return(x%y);
+  return(x % y);
 }
 
 function esPar(num) {
@@ -151,7 +151,8 @@ function agregarSimboloExclamacion(str) {
   // Agrega un símbolo de exclamación al final de la string "str" y devuelve una nueva string
   // Ejemplo: "hello world" pasaría a ser "hello world!"
   // Tu código:
-  return(str + '!');
+  var respuesta = (str + '!');
+  return(respuesta);
 }
 
 function combinarNombres(nombre, apellido) {
