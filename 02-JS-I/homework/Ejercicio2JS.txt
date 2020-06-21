@@ -1,0 +1,5 @@
+Variables: Cuando uno declara una variable esta reservando un espacio en la memoria para algo que sera usado mas tarde.
+String: El string es el nombre que se le da a los datos que son textos o caracteres.
+Funciones: Una funcion es un conjunto de instrucciones que devuelve (return) algun dato o valor, esta recibe un 'argumento' este es algun dato que sera usado dentro de la misma.
+If: el 'if' significa 'en el caso de que', el if tiene junto a el una condicion, en el caso que la condicion sea verdadera se ejecutaran las instruccciones que tiene dentro caso contrario las instrucciones seran ignoradas.
+Valores Booleanos: Los valores booleanos son un tipo de dato que puede tomar dos valores diferentes (nunca al mismo tiempo) estos son verdadero o falso.
