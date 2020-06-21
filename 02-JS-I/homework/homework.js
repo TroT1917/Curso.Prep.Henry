@@ -69,9 +69,9 @@ function tienenMismaLongitud(str1, str2) {
   // Devuelve "true" si las dos strings tienen la misma longitud
   // De lo contrario, devuelve "false"
   // Tu código:
-  if (str1.lenght === str2.lenght){
-    return(false);
-  }return(true);
+  if (str1.length === str2.length){
+    return(true);
+  }return(false);
 }
 
 function menosQueNoventa(num) {
@@ -166,7 +166,7 @@ function obtenerSaludo(nombre) {
   // Toma la string "nombre" y concatena otras string en la cadena para que tome la siguiente forma:
   // "Martin" -> "Hola Martin!"
   // Tu código:
-  var concatenacion =('Hola' + nombre + '!');
+  var concatenacion = ('Hola ' + nombre + '!');
   return(concatenacion);
   
 }
