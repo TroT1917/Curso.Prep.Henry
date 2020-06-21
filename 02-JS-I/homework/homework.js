@@ -69,7 +69,7 @@ function tienenMismaLongitud(str1, str2) {
   // Devuelve "true" si las dos strings tienen la misma longitud
   // De lo contrario, devuelve "false"
   // Tu código:
-  if (str1.lenght == str2.lenght){
+  if (str1.lenght === str2.lenght){
     return(true);
   }return(false);
 }
@@ -158,7 +158,7 @@ function combinarNombres(nombre, apellido) {
   // Devuelve "nombre" y "apellido" combinados en una string y separados por un espacio.
   // Ejemplo: "Soy", "Henry" -> "Soy Henry"
   // Tu código:
-  return(nombre+' '+apellido);
+  return(nombre + ' ' + apellido);
 }
 
 function obtenerSaludo(nombre) {
