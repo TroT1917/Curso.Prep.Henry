@@ -1,0 +1,4 @@
+For: El for nos permite repetir instrucciones una determinada cantidad de veces, lo determina una variable generalmente denominada i la cual va cambiando de valor hasta que deja de cumplir la condicion y ahi se termina el bucle
+&&: El 'y' nos sirve para evaluar dos condiciones al mismo tiempo, de estas se retornara verdadero solo si las dos lo son
+||: el 'O' tambien nos sirve para evaluar dos condiciones, de estas se retornara verdadero siempre que al menos una sea verdadera
+!: La negacion, nos sirve para invertir el valor de una condicion (un booleano)
