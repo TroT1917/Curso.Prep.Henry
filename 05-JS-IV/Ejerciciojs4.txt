@@ -1,0 +1,5 @@
+Objeto: es un conjunto sin orden de datos compuestos por un nombre que los identifica y un valor que los define
+Propiedades: son cada elemento de un objeto (cada dato)
+metodo: es una propiedad que ejecuta una serie de instrucciones
+bucle for in: es para repetir una seria de instrucciones tantas veces como propiedades tenga un objeto
+Diferencia entre notacion [] y notacion . : las dos formas funcionan de igual manera, la unica diferencia es que si el nombre de una propiedad tiene espacios solo se podra invocarla mediante un string entre corchetes
