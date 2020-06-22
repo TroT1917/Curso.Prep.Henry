@@ -1,0 +1,2 @@
+Prototype: Es como el padre de una clase que a su vez es padre de uno o varios objetos, dentro del protype se definiran todos los metodos en lugar de definirlos dentro del objeto.
+Constructor: Es un tipo de funcion que nos sirve para establecer una plantilla para construir objetos, en la plantilla aparecen los nombres y los valores se ingresan como parametro al invocar la funcion
