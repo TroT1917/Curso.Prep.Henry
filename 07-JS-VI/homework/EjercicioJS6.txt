@@ -1,0 +1,1 @@
+Callback: Asi se le llama a una funcion pasada como parametro a otra funcion, de esta manera podemos usar funciones junto (o dentro mejor dicho) de metodos de los prototipos. 
