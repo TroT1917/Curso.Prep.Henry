@@ -1,0 +1,28 @@
+html{
+    text-align: center;
+    background: url("https://previews.123rf.com/images/pavelalexeev/pavelalexeev1706/pavelalexeev170600314/80858346-patr%C3%B3n-de-cerca-de-madera-de-color-cian-fondo-abstracto-y-textura-para-el-dise%C3%B1o-.jpg");
+}
+h1{
+    color:grey;
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    width: 500px;
+    height: 600px;
+    background-color: indianred;
+    padding: 50px;
+    border: black;
+    border-style: double;
+    margin-right: auto;
+    margin-left: auto;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+li{
+    list-style: none;
+
+}
