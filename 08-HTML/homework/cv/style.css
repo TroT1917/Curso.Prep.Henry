@@ -37,19 +37,46 @@ h2,h3,h4,h5,h6{
 }
 li{
     color:#FFFAFF ;
-    text-decoration-color:#CBFF4D ;
+    text-decoration-color:#002500 ;
 }
 #content{
     margin-left: 25px;
 }
 #why{
-    height: 500px;
+    background-color: #002500;
+    margin-top: 90px;
+    border-radius: 25%;
+    border: #FFFAFF;
+    border-style: solid;
+    height:180px;
     width: 700px;
     display: flex;
     flex-direction: column;
+    align-self: center;
+    text-align: center;
 }
 .whyson{
     align-items: center;
     justify-content: space-around;
     align-self: center;
+}
+#Gpadre{
+    
+    display: flex;
+    flex-direction: column;
+}
+p{
+    color: #FFFAFF;
+    text-align: center;
+}
+#hobbies{
+    border-top:dotted;
+    border-bottom: dotted;
+    padding: 5px;
+    padding-bottom: 20px;
+    border-top-color: #FFFAFF;
+    border-bottom-color: #FFFAFF;
+    border-left:none ;
+    border-right: none;
+    
 }
