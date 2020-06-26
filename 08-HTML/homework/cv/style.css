@@ -1,0 +1,55 @@
+html{
+    background-color: #616163;
+}
+img{
+    width: 175px;
+    height: 175px;
+    
+    border: ivory;
+    border-style: solid;
+    border-radius: 50%;
+}
+#principal{
+    margin-left: 100px;
+    padding: 100px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+}
+#padre{
+    display: flex;
+    flex-direction: row;
+}
+span{
+    color: #FFFAFF;    
+
+}
+.DESCRIPCION{
+    display: flex;
+    margin-left: 15px;
+}
+h1{
+    margin-left: 15px;
+    color:#CBFF4D ;
+}
+h2,h3,h4,h5,h6{
+    color:#CBFF4D;
+}
+li{
+    color:#FFFAFF ;
+    text-decoration-color:#CBFF4D ;
+}
+#content{
+    margin-left: 25px;
+}
+#why{
+    height: 500px;
+    width: 700px;
+    display: flex;
+    flex-direction: column;
+}
+.whyson{
+    align-items: center;
+    justify-content: space-around;
+    align-self: center;
+}
